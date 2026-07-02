@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "استاد زبان",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "استاد زبان",
+  "start_url": "/",
+  "theme_color": "#000000",
+  "description": "ostad_zaban",
+  "id": "ostad_zaban"
+}
